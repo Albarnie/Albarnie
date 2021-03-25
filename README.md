@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Albarnie
+- 👀 I’m interested in Game Development and Machine Learning
+- 🌱 I’m currently learning about different animation techniques
+- 📫 Reach me on discord at Albarnie#4610
